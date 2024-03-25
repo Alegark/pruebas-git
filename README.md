@@ -1,6 +1,6 @@
 # **Practica de Git**
 
-![Git vs Github: ¿Cómo diferenciarlos? - Desafío Latam](https://blog.desafiolatam.com/wp-content/uploads/2023/04/Diferencias-entre-Git-y-Github.png)
+![imegn](https://img-b.udemycdn.com/course/750x422/5236736_3708.jpg)
 
  1. git config
  2. Comandos básicos en la terminal
